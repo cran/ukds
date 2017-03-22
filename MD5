@@ -1,0 +1,13 @@
+f5bbcfa8733cf609e79fcb86f551922a *DESCRIPTION
+29f3ce3a8d4e2bb7d24fc6e35389082f *LICENSE
+15d44eacee2d76689224524c7c00ff60 *NAMESPACE
+96e1dff4835bb1105072e6f90269b77c *NEWS.md
+5ea4aef32963a3e99379fbf461d83ca7 *R/ukds_download.R
+e06bbbc0b8b9ac5903a8844e6e94a398 *README.md
+9c21121da1dc187a51f48acc9db8201d *build/vignette.rds
+bfe75c0b0cd3c64eb967569ed227307f *inst/doc/ukds-vignette.R
+df62405f50a175e74b69d08552d574ab *inst/doc/ukds-vignette.Rmd
+a1a750ac518339e8847eb89a168e2ca2 *inst/doc/ukds-vignette.html
+99ce54b95347db3fd2d1a2c3f707e507 *man/ukds_download.Rd
+df62405f50a175e74b69d08552d574ab *vignettes/ukds-vignette.Rmd
+f7bdf0f655a3449bd76d5839f9a54034 *vignettes/ukds_bsa2015.png
